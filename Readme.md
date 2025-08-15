@@ -21,3 +21,12 @@
 
     - Calls the function and prints either the discounted price or the original price if no discount applies.
 
+### Run my Code 
+```bash 
+# In terminal/cmd clone this repository:.
+git clone https://github.com/toxidity-18/Python-Wk3-Assignment-.git
+# navigate inside the repository :
+cd Python Wk3 Assignment 
+# run the python code 
+python Result.py
+```
